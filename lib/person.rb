@@ -1,11 +1,11 @@
-class Dog
-  def name (dog_name)
-    @the_dog = dog_name
+class Person
+  def name (person_name)
+    @the_person = Person_name
 end
-def name=(dog_name)
-  @the_dog
+def name
+  @the_person
 end
-def breed=(dog_name)
+def job
   puts "breed"
 end
 end
