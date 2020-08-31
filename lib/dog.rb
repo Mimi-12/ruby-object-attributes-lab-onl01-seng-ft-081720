@@ -5,9 +5,7 @@ end
 def name=(dog_name)
   @the_dog
 end
-def breed=()
+def breed=(dog_name)
   puts "breed"
 end
 end
-dog_name = Dog.new
-dog.name
