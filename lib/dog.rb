@@ -9,3 +9,5 @@ def breed
   puts "breed"
 end
 end
+dog_name = Dog.new
+dog.name
