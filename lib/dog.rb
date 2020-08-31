@@ -5,7 +5,7 @@ end
 def name
   @the_dog
 end
-def breed
+def breed=()
   puts "breed"
 end
 end
