@@ -5,7 +5,7 @@ end
 def name
   @the_person
 end
-def job
+def job=(dog_name)
   puts "job"
 end
 end
