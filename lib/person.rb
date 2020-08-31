@@ -6,6 +6,6 @@ def name
   @the_person
 end
 def job
-  puts "breed"
+  puts "job"
 end
 end
