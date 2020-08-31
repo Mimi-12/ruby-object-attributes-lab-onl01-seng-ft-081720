@@ -7,3 +7,4 @@ def name
 end
 def breed
   puts "breed"
+end
