@@ -1,11 +1,11 @@
 class Person
-  def name (person_name)
-    @the_person = Person_name
+  def name (Beyonce)
+    @the_person = Beyonce
 end
 def name
   @the_person
 end
-def job=(dog_name)
+def job=(Beyonce)
   puts "job"
 end
 end
