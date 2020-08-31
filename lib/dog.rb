@@ -1,11 +1,11 @@
 class Dog
-  def name (dog_name)
-    @the_dog = dog_name
+  def name (fido)
+    @the_dog = fido
 end
-def name=(dog_name)
+def name=(fido)
   @the_dog
 end
-def breed=(dog_name)
+def breed=(fido)
   puts "breed"
 end
 end
